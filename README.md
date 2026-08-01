@@ -50,8 +50,8 @@ My work spans the full stack — from Power BI dashboards and ML pipelines to pr
 Native apps on the Google Play Store. I led a sponsored fintech platform that automated loan
 onboarding for **200+ borrowers**, cutting processing time by **~40%**.
 
-Currently a **Software Developer Intern at INDUX Technologies (Pune)**, working on CRM/HRMS
-systems with React.js, Node.js, and React Native.
+Currently a **Data Analyst Intern at INDUX Technologies (Pune)**, working on CRM/HRMS
+systems and internal data reporting with React.js, Node.js, and React Native.
 
 | | | | |
 |---|---|---|---|
@@ -128,10 +128,10 @@ systems with React.js, Node.js, and React Native.
 
 ## 💼 Experience
 
-**Software Developer Intern** — INDUX Technologies, Pune *(Jan 2026 – May 2026)*
-- Deployed 2 production apps (web + Android on Google Play Store) using React.js, Node.js, React Native
-- Built data-fetching pipelines & API integrations, cutting manual data handling by ~30%
-- Maintained CRM/HRMS modules, payroll systems, and workflow automation under Agile practices
+**Data Analyst Intern** — INDUX Technologies, Pune *(Dec 2025 – Present)*
+- Engineered data-fetching pipelines and API integrations, reducing manual data handling effort by ~30% through automated application-level processing
+- Developed and deployed 2 production apps (web + Android on Google Play Store) using React.js, Node.js, and React Native, serving active users in a live CRM environment
+- Analyzed CRM and application usage data to track adoption and performance metrics, building internal summary reports that informed product and engineering decisions
 
 **Forage Virtual Experience Programs**
 - 🔵 Deloitte — Data Analytics Job Simulation (Apr–Jun 2025)
@@ -147,7 +147,6 @@ systems with React.js, Node.js, and React Native.
 
 **Professional & Cloud**
 - OCI 2025 Certified Data Science Professional — Oracle University (Oct 2025)
-- OCI 2025 Certified Foundations Associate — Oracle University (Oct 2025)
 - Data Analytics Job Simulation — Deloitte × Forage (Apr 2025)
 - Technology Job Simulation — Deloitte × Forage (Jul 2025)
 - GenAI Powered Data Analytics Simulation — TATA × Forage (Jun 2025)
